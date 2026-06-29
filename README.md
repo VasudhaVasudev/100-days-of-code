@@ -15,8 +15,8 @@ Hi! I'm Vasudha, and this repository documents my **100 Days of DSA** journey us
 | Day | Question | Topic | Status |
 |-----|----------|-------|--------|
 | Day 1 | Q1 | Array Insertion | ✅ |
-
 | Day 2 | Q1 | Array Deletion | ✅ |
+| Day 3 | Q1 | Array Search | ✅ |
 
 
 ## Topics Covered
