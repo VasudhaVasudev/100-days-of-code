@@ -12,12 +12,14 @@ Hi! I'm Vasudha, and this repository documents my **100 Days of DSA** journey us
 
 ## Progress
 
-| Day   | Topic           | Status 
-|-------|-----------------|-------
-| Day 1 | Array Insertion | ✅    
-| Day 2 | Array Deletion  | ✅     
-| Day 3 | Array Search    | ✅     
-| Day 4 | Array Inverse   | ✅    
+| Day   | Topic               | Status 
+|-------|---------------------|-------
+| Day 1 | Array Insertion     | ✅    
+| Day 2 | Array Deletion      | ✅     
+| Day 3 | Array Search        | ✅     
+| Day 4 | Array Inverse       | ✅ 
+| Day 5 | Merge Sorted Arrays | ✅   
+| Day 6 | Remove Duplicates   | ✅   
 
 
 ## Topics Covered

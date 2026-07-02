@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class Day2 {
 
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -22,7 +25,7 @@ public class Day2 {
 
         if (pos < 1 || pos > n) {
             System.out.println("Invalid Position!");
-            return;
+            return ;
         }
 
         for (int i = pos - 1; i < n - 1; i++) {
