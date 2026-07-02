@@ -1,3 +1,4 @@
+//javac D"Day 2 - Array Deletion"
 import java.util.Scanner;
 
 public class Day2 {
