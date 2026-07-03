@@ -20,6 +20,7 @@ Hi! I'm Vasudha, and this repository documents my **100 Days of DSA** journey us
 | Day 4 | Array Inverse       | ✅ 
 | Day 5 | Merge Sorted Arrays | ✅   
 | Day 6 | Remove Duplicates   | ✅   
+| Day 7 | Recursive Fibonacci | ✅   
 
 
 ## Topics Covered
