@@ -24,16 +24,44 @@ Hi! I'm Vasudha, and this repository documents my **100 Days of DSA** journey us
 | Day 8 | Recursion (Power Function) | ✅ 
 | Day 9 | Reverse a String using Recursion | ✅
 | Day 10| Palindrome Check using Two Pointers | ✅
+| Day 11| Matrix Addition (2D Arrays) | ✅
 
+### Topics Covered
 
-## Topics Covered
-
-- Arrays
+## Arrays
 - Array Insertion
 - Array Deletion
-- Array Searching
-- Array Inverse
+- Array Reversal
+- Linear Search
+- Merge Sorted Arrays
+- Remove Duplicates
+- Move Zeroes
+- Missing Number
+
+## Two Pointer Technique
+- Reverse Array
+- Remove Element
+- Merge Sorted Arrays
+- Palindrome Check
+
+## Hashing
 - HashMap
 - Two Sum
+- Intersection of Two Arrays
+
+## Recursion
+- Fibonacci
+- Power of a Number
+- Reverse String
+
+## Greedy
+- Best Time to Buy and Sell Stock
+
+## Strings
+- Reverse String
+- Palindrome Check
+
+## Matrices
+- Matrix Addition (2D Arrays)
 
 More topics will be added as I progress through the challenge.
