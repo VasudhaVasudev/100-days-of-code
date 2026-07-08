@@ -25,6 +25,7 @@ Hi! I'm Vasudha, and this repository documents my **100 Days of DSA** journey us
 | Day 9 | Reverse a String using Recursion | ✅
 | Day 10| Palindrome Check using Two Pointers | ✅
 | Day 11| Matrix Addition (2D Arrays) | ✅
+| Day 12| Symmetric Matrix (2D Arrays) | ✅
 
 ### Topics Covered
 
