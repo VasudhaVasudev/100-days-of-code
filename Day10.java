@@ -1,3 +1,4 @@
+//DAY10
 import java.util.Scanner;
 
 public class Day10 {
