@@ -27,6 +27,7 @@ Hi! I'm Vasudha, and this repository documents my **100 Days of DSA** journey us
 | Day 11| Matrix Addition (2D Arrays) | ✅
 | Day 12| Symmetric Matrix (2D Arrays) | ✅
 | Day 13| Spiral Matrix Traversal (2D Arrays) | ✅
+| Day 14| Identity Matrix (2D Arrays) | ✅
 
 ### Topics Covered
 
