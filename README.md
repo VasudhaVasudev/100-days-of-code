@@ -30,6 +30,7 @@ Hi! I'm Vasudha, and this repository documents my **100 Days of DSA** journey us
 | Day 14| Identity Matrix (2D Arrays) | ✅
 | Day 15| Primary Diagonal Sum (2D Arrays) | ✅
 | Day 16| Frequency Count using HashMap | ✅
+| Day 17| Maximum and Minimum Element in an Array | ✅
 
 
 ### Topics Covered
