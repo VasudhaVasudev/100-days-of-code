@@ -31,7 +31,15 @@ Hi! I'm Vasudha, and this repository documents my **100 Days of DSA** journey us
 | Day 15| Primary Diagonal Sum (2D Arrays) | ✅
 | Day 16| Frequency Count using HashMap | ✅
 | Day 17| Maximum and Minimum Element in an Array | ✅
-
+| Day 18 | Rotate Array | ✅ |
+| Day 19 | Pair with Sum Closest to Zero | ✅ |
+| Day 20 | Count Zero Sum Subarrays | ✅ |
+| Day 21 | Create & Traverse Singly Linked List | ✅ |
+| Day 22 | Count Nodes in a Linked List | ✅ |
+| Day 23 | Merge Two Sorted Linked Lists | ✅ |
+| Day 24 | Delete First Occurrence of a Key | ✅ |
+| Day 25 | Count Occurrences of an Element in Linked List | ✅ |
+| Day 26 | Doubly Linked List Insertion & Traversal | ✅ |
 
 ### Topics Covered
 
@@ -40,6 +48,8 @@ Hi! I'm Vasudha, and this repository documents my **100 Days of DSA** journey us
 - Array Deletion
 - Array Reversal
 - Linear Search
+- Maximum & Minimum Element
+- Rotate Array
 - Merge Sorted Arrays
 - Remove Duplicates
 - Move Zeroes
@@ -50,11 +60,16 @@ Hi! I'm Vasudha, and this repository documents my **100 Days of DSA** journey us
 - Remove Element
 - Merge Sorted Arrays
 - Palindrome Check
+- Pair with Sum Closest to Zero
+
+## Prefix Sum
+- Count Zero Sum Subarrays
 
 ## Hashing
 - HashMap
 - Two Sum
 - Intersection of Two Arrays
+- Frequency Count
 
 ## Recursion
 - Fibonacci
@@ -69,6 +84,16 @@ Hi! I'm Vasudha, and this repository documents my **100 Days of DSA** journey us
 - Palindrome Check
 
 ## Matrices
-- Matrix Addition (2D Arrays)
+- Matrix Addition
+- Symmetric Matrix
+- Spiral Matrix Traversal
+- Identity Matrix
+- Primary Diagonal Sum
 
-More topics will be added as I progress through the challenge.
+## Linked Lists
+- Create & Traverse Singly Linked List
+- Count Nodes
+- Merge Two Sorted Linked Lists
+- Delete First Occurrence of a Key
+- Count Occurrences of an Element
+- Doubly Linked List Insertion & Traversal
