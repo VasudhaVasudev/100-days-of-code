@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Day9 {
+public class Day09 {
 
     // Recursive function to reverse a string
     public static String reverse(String str) {

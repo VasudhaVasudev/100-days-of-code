@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Day8 {
+public class Day08 {
 
     // Recursive function to calculate a^b
     public static int power(int a, int b) {

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Day7 {
+public class Day07 {
 
     // Recursive function to find nth Fibonacci number
     public static int fib(int n) {

@@ -1,7 +1,7 @@
 //javac D"Day 2 - Array Deletion"
 import java.util.Scanner;
 
-public class Day2 {
+public class Day02 {
 
     /**
      * @param args
@@ -26,7 +26,8 @@ public class Day2 {
 
         if (pos < 1 || pos > n) {
             System.out.println("Invalid Position!");
-            return ;
+            sc.close();
+            return;
         }
 
         for (int i = pos - 1; i < n - 1; i++) {

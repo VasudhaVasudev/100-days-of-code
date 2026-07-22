@@ -1,7 +1,7 @@
 // Day 4 - Reversing an Array
 import java.util.Scanner;
 
-public class Day4 {
+public class Day04 {
 
     public static void main(String[] args) {
 

@@ -1,4 +1,3 @@
-// day26
 import java.util.Scanner;
 
 class Node {

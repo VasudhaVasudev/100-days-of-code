@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Day6 {
+public class Day06 {
 
     public static void main(String[] args) {
 
@@ -19,6 +19,7 @@ public class Day6 {
 
         if (n == 0) {
             System.out.println("Array is empty.");
+            sc.close();
             return;
         }
 
